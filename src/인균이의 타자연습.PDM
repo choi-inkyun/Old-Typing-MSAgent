@@ -1,0 +1,377 @@
+[Root]
+Most Recent Package=인균이의 타자프로그램
+
+
+[Package|인균이의 타자 프로그램|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\인균이의 타자연습
+
+[Package|인균이의 타자 프로그램|Configure DAO ISAMs]
+Applicable=No
+
+[Package|인균이의 타자 프로그램|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|인균이의 타자 프로그램|Files Found]
+11.MID=\\아빠컴퓨터\D\타자\11.MID
+12.MID=\\아빠컴퓨터\D\타자\12.MID
+
+[Package|인균이의 타자 프로그램|Files Released]
+
+[Package|인균이의 타자 프로그램|Missing Dependency Information]
+
+[Package|인균이의 타자 프로그램|Out-of-Date Dependency Information]
+
+[Package|인균이의 타자 프로그램|Files Added]
+11.mid=
+12.mid=
+2-02 ahead on our way midi.mid=
+31.mid=
+34.mid=
+end.wav=
+hero.mid=
+start.wav=
+theme as.wav=
+theme ma.wav=
+theme me.wav=
+theme mi.wav=
+toheart.mid=
+yestrday.mid=
+
+[Package|인균이의 타자 프로그램|Files Removed]
+
+[Package|인균이의 타자 프로그램|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MCI32.OCX=Yes
+C:\WINDOWS\SYSTEM\MCIKO.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+\\아빠컴퓨터\D\타자\인균이의 타자연습.exe=Yes
+\\아빠컴퓨터\D\타자\11.MID=Yes
+\\아빠컴퓨터\D\타자\12.MID=Yes
+\\아빠컴퓨터\D\타자\2-02 Ahead on Our Way Midi.mid=Yes
+\\아빠컴퓨터\D\타자\31.MID=Yes
+\\아빠컴퓨터\D\타자\34.MID=Yes
+\\아빠컴퓨터\D\타자\End.wav=Yes
+\\아빠컴퓨터\D\타자\Hero.mid=Yes
+\\아빠컴퓨터\D\타자\Start.WAV=Yes
+\\아빠컴퓨터\D\타자\THEME AS.WAV=Yes
+\\아빠컴퓨터\D\타자\THEME MA.WAV=Yes
+\\아빠컴퓨터\D\타자\THEME ME.WAV=Yes
+\\아빠컴퓨터\D\타자\THEME MI.WAV=Yes
+\\아빠컴퓨터\D\타자\Yestrday.mid=Yes
+C:\TOHEART.MID=Yes
+
+[Package|인균이의 타자 프로그램|Configure Registry Files]
+Applicable=No
+
+[Package|인균이의 타자 프로그램|Configure Remote Servers]
+Applicable=No
+
+[Package|인균이의 타자 프로그램|Install Locations]
+D:\타자\인균이의 타자연습.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MCIKO.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\타자\11.MID=$(AppPath)
+D:\타자\12.MID=$(AppPath)
+D:\타자\2-02 Ahead on Our Way Midi.mid=$(AppPath)
+D:\타자\31.MID=$(AppPath)
+D:\타자\34.MID=$(AppPath)
+D:\타자\End.wav=$(AppPath)
+D:\타자\Hero.mid=$(AppPath)
+D:\타자\Start.WAV=$(AppPath)
+D:\타자\THEME AS.WAV=$(AppPath)
+D:\타자\THEME MA.WAV=$(AppPath)
+D:\타자\THEME ME.WAV=$(AppPath)
+D:\타자\THEME MI.WAV=$(AppPath)
+D:\타자\TOHEART.MID=$(AppPath)
+D:\타자\Yestrday.mid=$(AppPath)
+\\아빠컴퓨터\D\타자\인균이의 타자연습.exe=$(AppPath)
+\\아빠컴퓨터\D\타자\11.MID=$(AppPath)
+\\아빠컴퓨터\D\타자\12.MID=$(AppPath)
+\\아빠컴퓨터\D\타자\2-02 Ahead on Our Way Midi.mid=$(AppPath)
+\\아빠컴퓨터\D\타자\31.MID=$(AppPath)
+\\아빠컴퓨터\D\타자\34.MID=$(AppPath)
+\\아빠컴퓨터\D\타자\End.wav=$(AppPath)
+\\아빠컴퓨터\D\타자\Hero.mid=$(AppPath)
+\\아빠컴퓨터\D\타자\Start.WAV=$(AppPath)
+\\아빠컴퓨터\D\타자\THEME AS.WAV=$(AppPath)
+\\아빠컴퓨터\D\타자\THEME MA.WAV=$(AppPath)
+\\아빠컴퓨터\D\타자\THEME ME.WAV=$(AppPath)
+\\아빠컴퓨터\D\타자\THEME MI.WAV=$(AppPath)
+\\아빠컴퓨터\D\타자\TOHEART.MID=$(AppPath)
+\\아빠컴퓨터\D\타자\Yestrday.mid=$(AppPath)
+C:\TOHEART.MID=$(AppPath)
+
+[Package|인균이의 타자 프로그램|Configure Shared Files]
+Applicable=Yes
+D:\타자\인균이의 타자연습.exe=No
+D:\타자\11.MID=No
+D:\타자\12.MID=No
+D:\타자\2-02 Ahead on Our Way Midi.mid=No
+D:\타자\31.MID=No
+D:\타자\34.MID=No
+D:\타자\End.wav=No
+D:\타자\Hero.mid=No
+D:\타자\Start.WAV=No
+D:\타자\THEME AS.WAV=No
+D:\타자\THEME MA.WAV=No
+D:\타자\THEME ME.WAV=No
+D:\타자\THEME MI.WAV=No
+D:\타자\TOHEART.MID=No
+D:\타자\Yestrday.mid=No
+\\아빠컴퓨터\D\타자\인균이의 타자연습.exe=No
+\\아빠컴퓨터\D\타자\11.MID=No
+\\아빠컴퓨터\D\타자\12.MID=No
+\\아빠컴퓨터\D\타자\2-02 Ahead on Our Way Midi.mid=No
+\\아빠컴퓨터\D\타자\31.MID=No
+\\아빠컴퓨터\D\타자\34.MID=No
+\\아빠컴퓨터\D\타자\End.wav=No
+\\아빠컴퓨터\D\타자\Hero.mid=No
+\\아빠컴퓨터\D\타자\Start.WAV=No
+\\아빠컴퓨터\D\타자\THEME AS.WAV=No
+\\아빠컴퓨터\D\타자\THEME MA.WAV=No
+\\아빠컴퓨터\D\타자\THEME ME.WAV=No
+\\아빠컴퓨터\D\타자\THEME MI.WAV=No
+\\아빠컴퓨터\D\타자\TOHEART.MID=No
+\\아빠컴퓨터\D\타자\Yestrday.mid=No
+C:\TOHEART.MID=No
+
+[Package|인균이의 타자 프로그램|Distribution]
+Type=single
+Size=
+Title=인균이의 타자 프로그램
+
+[Package|인균이의 타자 프로그램|Package]
+PackageFolder=c:\인균이의 타자연습
+ProjectFolder=\\아빠컴퓨터\D\타자
+ServerSideCab=
+File1=c:\인균이의 타자연습\setup.exe
+File2=c:\인균이의 타자연습\Setup.Lst
+File3=c:\인균이의 타자연습\인균이의 타자연습.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|인균이의 타자 프로그램|IconGroups]
+Group0=인균이의 타자 프로그램
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|인균이의 타자 프로그램|인균이의 타자 프로그램]
+Icon1="인균이의 타자연습.exe"
+Title1=인균이의 타자 프로그램
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|인균이의 타자프로그램|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\인균이의 타자연습
+
+[Package|인균이의 타자프로그램|Configure DAO ISAMs]
+Applicable=No
+
+[Package|인균이의 타자프로그램|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|인균이의 타자프로그램|Files Found]
+11.MID=\\아빠컴퓨터\D\타자\11.MID
+12.MID=\\아빠컴퓨터\D\타자\12.MID
+2-02 Ahead on Our Way Midi.mid=\\아빠컴퓨터\D\타자\2-02 Ahead on Our Way Midi.mid
+31.MID=D:\타자\31.MID
+34.MID=D:\타자\34.MID
+
+[Package|인균이의 타자프로그램|Files Released]
+
+[Package|인균이의 타자프로그램|Missing Dependency Information]
+
+[Package|인균이의 타자프로그램|Out-of-Date Dependency Information]
+
+[Package|인균이의 타자프로그램|Files Added]
+11.mid=
+12.mid=
+2-02 ahead on our way midi.mid=
+31.mid=
+34.mid=
+end.wav=
+hero.mid=
+start.wav=
+theme as.wav=
+theme ma.wav=
+theme me.wav=
+theme mi.wav=
+toheart.mid=
+yestrday.mid=
+
+[Package|인균이의 타자프로그램|Files Removed]
+
+[Package|인균이의 타자프로그램|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MCI32.OCX=Yes
+C:\WINDOWS\SYSTEM\MCIKO.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+\\아빠컴퓨터\D\타자\11.MID=Yes
+\\아빠컴퓨터\D\타자\12.MID=Yes
+\\아빠컴퓨터\D\타자\2-02 Ahead on Our Way Midi.mid=Yes
+D:\타자\인균이의 타자연습.exe=Yes
+D:\타자\31.MID=Yes
+D:\타자\34.MID=Yes
+D:\타자\End.wav=Yes
+D:\타자\Hero.mid=Yes
+D:\타자\Start.WAV=Yes
+D:\타자\THEME AS.WAV=Yes
+D:\타자\THEME MA.WAV=Yes
+D:\타자\THEME ME.WAV=Yes
+D:\타자\THEME MI.WAV=Yes
+D:\타자\TOHEART.MID=Yes
+D:\타자\Yestrday.mid=Yes
+
+[Package|인균이의 타자프로그램|Configure Registry Files]
+Applicable=No
+
+[Package|인균이의 타자프로그램|Configure Remote Servers]
+Applicable=No
+
+[Package|인균이의 타자프로그램|Install Locations]
+D:\타자\인균이의 타자연습.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MCIKO.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\타자\11.MID=$(AppPath)
+D:\타자\12.MID=$(AppPath)
+D:\타자\2-02 Ahead on Our Way Midi.mid=$(AppPath)
+D:\타자\31.MID=$(AppPath)
+D:\타자\34.MID=$(AppPath)
+D:\타자\End.wav=$(AppPath)
+D:\타자\Hero.mid=$(AppPath)
+D:\타자\Start.WAV=$(AppPath)
+D:\타자\THEME AS.WAV=$(AppPath)
+D:\타자\THEME MA.WAV=$(AppPath)
+D:\타자\THEME ME.WAV=$(AppPath)
+D:\타자\THEME MI.WAV=$(AppPath)
+D:\타자\TOHEART.MID=$(AppPath)
+D:\타자\Yestrday.mid=$(AppPath)
+\\아빠컴퓨터\D\타자\인균이의 타자연습.exe=$(AppPath)
+\\아빠컴퓨터\D\타자\11.MID=$(AppPath)
+\\아빠컴퓨터\D\타자\12.MID=$(AppPath)
+\\아빠컴퓨터\D\타자\2-02 Ahead on Our Way Midi.mid=$(AppPath)
+\\아빠컴퓨터\D\타자\31.MID=$(AppPath)
+\\아빠컴퓨터\D\타자\34.MID=$(AppPath)
+\\아빠컴퓨터\D\타자\End.wav=$(AppPath)
+\\아빠컴퓨터\D\타자\Hero.mid=$(AppPath)
+\\아빠컴퓨터\D\타자\Start.WAV=$(AppPath)
+\\아빠컴퓨터\D\타자\THEME AS.WAV=$(AppPath)
+\\아빠컴퓨터\D\타자\THEME MA.WAV=$(AppPath)
+\\아빠컴퓨터\D\타자\THEME ME.WAV=$(AppPath)
+\\아빠컴퓨터\D\타자\THEME MI.WAV=$(AppPath)
+\\아빠컴퓨터\D\타자\TOHEART.MID=$(AppPath)
+\\아빠컴퓨터\D\타자\Yestrday.mid=$(AppPath)
+C:\TOHEART.MID=$(AppPath)
+
+[Package|인균이의 타자프로그램|Configure Shared Files]
+Applicable=Yes
+D:\타자\인균이의 타자연습.exe=Yes
+D:\타자\11.MID=No
+D:\타자\12.MID=No
+D:\타자\2-02 Ahead on Our Way Midi.mid=No
+D:\타자\31.MID=Yes
+D:\타자\34.MID=Yes
+D:\타자\End.wav=Yes
+D:\타자\Hero.mid=Yes
+D:\타자\Start.WAV=Yes
+D:\타자\THEME AS.WAV=Yes
+D:\타자\THEME MA.WAV=Yes
+D:\타자\THEME ME.WAV=Yes
+D:\타자\THEME MI.WAV=Yes
+D:\타자\TOHEART.MID=Yes
+D:\타자\Yestrday.mid=Yes
+\\아빠컴퓨터\D\타자\인균이의 타자연습.exe=Yes
+\\아빠컴퓨터\D\타자\11.MID=Yes
+\\아빠컴퓨터\D\타자\12.MID=Yes
+\\아빠컴퓨터\D\타자\2-02 Ahead on Our Way Midi.mid=Yes
+\\아빠컴퓨터\D\타자\31.MID=Yes
+\\아빠컴퓨터\D\타자\34.MID=Yes
+\\아빠컴퓨터\D\타자\End.wav=Yes
+\\아빠컴퓨터\D\타자\Hero.mid=Yes
+\\아빠컴퓨터\D\타자\Start.WAV=Yes
+\\아빠컴퓨터\D\타자\THEME AS.WAV=Yes
+\\아빠컴퓨터\D\타자\THEME MA.WAV=Yes
+\\아빠컴퓨터\D\타자\THEME ME.WAV=Yes
+\\아빠컴퓨터\D\타자\THEME MI.WAV=Yes
+\\아빠컴퓨터\D\타자\TOHEART.MID=No
+\\아빠컴퓨터\D\타자\Yestrday.mid=Yes
+C:\TOHEART.MID=Yes
+
+[Package|인균이의 타자프로그램|Distribution]
+Type=single
+Size=
+Title=인균이의 타자 프로그램
+
+[Package|인균이의 타자프로그램|Package]
+PackageFolder=c:\인균이의 타자연습
+ProjectFolder=D:\타자
+ServerSideCab=
+File1=c:\인균이의 타자연습\setup.exe
+File2=c:\인균이의 타자연습\Setup.Lst
+File3=c:\인균이의 타자연습\인균이의 타자연습.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|인균이의 타자프로그램|IconGroups]
+Group0=인균이의 타자 프로그램
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|인균이의 타자프로그램|인균이의 타자 프로그램]
+Icon1="인균이의 타자연습.exe"
+Title1=인균이의 타자 프로그램
+StartIn1=$(AppPath)
+Key1=Icon1

@@ -1,0 +1,321 @@
+[Root]
+Most Recent Package=인균이의 타자 프로그램
+
+[Package|타자 프로그램|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=a:\타자 패키지
+
+[Package|타자 프로그램|Configure DAO ISAMs]
+Applicable=No
+
+[Package|타자 프로그램|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|타자 프로그램|Files Found]
+
+[Package|타자 프로그램|Files Released]
+
+[Package|타자 프로그램|Missing Dependency Information]
+
+[Package|타자 프로그램|Out-of-Date Dependency Information]
+
+[Package|타자 프로그램|Files Added]
+
+[Package|타자 프로그램|Files Removed]
+
+[Package|타자 프로그램|Files In Project]
+D:\타자\타자.!!.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|타자 프로그램|Configure Registry Files]
+Applicable=No
+
+[Package|타자 프로그램|Configure Remote Servers]
+Applicable=No
+
+[Package|타자 프로그램|Install Locations]
+D:\타자\타자.!!.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|타자 프로그램|Configure Shared Files]
+Applicable=Yes
+D:\타자\타자.!!.exe=No
+
+[Package|타자 프로그램|Distribution]
+Type=single
+Size=1.44 MB
+Title=타자 프로그램
+
+[Package|타자 프로그램|IconGroups]
+Group0=타자 프로그램
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|타자 프로그램|타자 프로그램]
+Icon1=타자.!!.EXE
+Title1=타자 프로그램
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|타자 프로그램 데모|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\타자
+
+[Package|타자 프로그램 데모|Configure DAO ISAMs]
+Applicable=No
+
+[Package|타자 프로그램 데모|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|타자 프로그램 데모|Files Found]
+
+[Package|타자 프로그램 데모|Files Released]
+
+[Package|타자 프로그램 데모|Missing Dependency Information]
+
+[Package|타자 프로그램 데모|Out-of-Date Dependency Information]
+
+[Package|타자 프로그램 데모|Files Added]
+
+[Package|타자 프로그램 데모|Files Removed]
+
+[Package|타자 프로그램 데모|Files In Project]
+D:\타자\타자.!!.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|타자 프로그램 데모|Configure Registry Files]
+Applicable=No
+
+[Package|타자 프로그램 데모|Configure Remote Servers]
+Applicable=No
+
+[Package|타자 프로그램 데모|Install Locations]
+D:\타자\타자.!!.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|타자 프로그램 데모|Configure Shared Files]
+Applicable=Yes
+D:\타자\타자.!!.exe=No
+
+[Package|타자 프로그램 데모|Distribution]
+Type=single
+Size=1.44 MB
+Title=타자 프로그램 데모
+
+[Package|타자 프로그램 데모|IconGroups]
+Group0=타자 프로그램
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|타자 프로그램 데모|타자 프로그램]
+Icon1=타자.!!.EXE
+Title1=타자 프로그램
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|타자 프로그램 데모|Package]
+PackageFolder=c:\타자
+ProjectFolder=D:\타자
+ServerSideCab=
+File1=c:\타자\setup.exe
+File2=c:\타자\Setup.Lst
+File3=c:\타자\타자.!!.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|인균이의 타자 프로그램|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\인균이의 타자연습
+
+[Package|인균이의 타자 프로그램|Configure DAO ISAMs]
+Applicable=No
+
+[Package|인균이의 타자 프로그램|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|인균이의 타자 프로그램|Files Found]
+
+[Package|인균이의 타자 프로그램|Files Released]
+
+[Package|인균이의 타자 프로그램|Missing Dependency Information]
+
+[Package|인균이의 타자 프로그램|Out-of-Date Dependency Information]
+
+[Package|인균이의 타자 프로그램|Files Added]
+d:\타자\11.mid=
+d:\타자\12.mid=
+d:\타자\2-02 ahead on our way midi.mid=
+d:\타자\31.mid=
+d:\타자\34.mid=
+d:\타자\start.wav=
+d:\타자\end.wav=
+d:\타자\hero.mid=
+d:\타자\theme as.wav=
+d:\타자\theme ma.wav=
+d:\타자\theme me.wav=
+d:\타자\theme mi.wav=
+d:\타자\toheart.mid=
+d:\타자\yestrday.mid=
+
+[Package|인균이의 타자 프로그램|Files Removed]
+
+[Package|인균이의 타자 프로그램|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6KO.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\타자\인균이의 타자연습.exe=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=Yes
+C:\WINDOWS\SYSTEM\MCI32.OCX=Yes
+C:\WINDOWS\SYSTEM\MCIKO.DLL=Yes
+D:\타자\11.MID=Yes
+D:\타자\12.MID=Yes
+D:\타자\2-02 Ahead on Our Way Midi.mid=Yes
+D:\타자\31.MID=Yes
+D:\타자\34.MID=Yes
+D:\타자\Start.WAV=Yes
+D:\타자\End.wav=Yes
+D:\타자\Hero.mid=Yes
+D:\타자\THEME AS.WAV=Yes
+D:\타자\THEME MA.WAV=Yes
+D:\타자\THEME ME.WAV=Yes
+D:\타자\THEME MI.WAV=Yes
+D:\타자\TOHEART.MID=Yes
+D:\타자\Yestrday.mid=Yes
+
+[Package|인균이의 타자 프로그램|Configure Registry Files]
+Applicable=No
+
+[Package|인균이의 타자 프로그램|Configure Remote Servers]
+Applicable=No
+
+[Package|인균이의 타자 프로그램|Install Locations]
+D:\타자\타자.!!.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6KO.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\타자\인균이의 타자연습.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCMCKO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MCIKO.DLL=$(WinSysPath)
+D:\타자\11.MID=$(AppPath)
+D:\타자\12.MID=$(AppPath)
+D:\타자\2-02 Ahead on Our Way Midi.mid=$(AppPath)
+D:\타자\31.MID=$(AppPath)
+D:\타자\34.MID=$(AppPath)
+D:\타자\Start.WAV=$(AppPath)
+D:\타자\End.wav=$(AppPath)
+D:\타자\Hero.mid=$(AppPath)
+D:\타자\THEME AS.WAV=$(AppPath)
+D:\타자\THEME MA.WAV=$(AppPath)
+D:\타자\THEME ME.WAV=$(AppPath)
+D:\타자\THEME MI.WAV=$(AppPath)
+D:\타자\TOHEART.MID=$(AppPath)
+D:\타자\Yestrday.mid=$(AppPath)
+
+[Package|인균이의 타자 프로그램|Configure Shared Files]
+Applicable=Yes
+D:\타자\타자.!!.exe=No
+D:\타자\인균이의 타자연습.exe=Yes
+D:\타자\11.MID=Yes
+D:\타자\12.MID=Yes
+D:\타자\2-02 Ahead on Our Way Midi.mid=Yes
+D:\타자\31.MID=Yes
+D:\타자\34.MID=Yes
+D:\타자\Start.WAV=Yes
+D:\타자\End.wav=Yes
+D:\타자\Hero.mid=Yes
+D:\타자\THEME AS.WAV=Yes
+D:\타자\THEME MA.WAV=Yes
+D:\타자\THEME ME.WAV=Yes
+D:\타자\THEME MI.WAV=Yes
+D:\타자\TOHEART.MID=Yes
+D:\타자\Yestrday.mid=Yes
+
+[Package|인균이의 타자 프로그램|Distribution]
+Type=single
+Size=1.44 MB
+Title=인균이의 타자 프로그램
+
+[Package|인균이의 타자 프로그램|Package]
+PackageFolder=C:\인균이의 타자연습
+ProjectFolder=D:\타자
+ServerSideCab=
+File1=C:\인균이의 타자연습\setup.exe
+File2=C:\인균이의 타자연습\Setup.Lst
+File3=C:\인균이의 타자연습\인균이의 타자연습.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|인균이의 타자 프로그램|IconGroups]
+Group0=인균이의 타자 프로그램
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|인균이의 타자 프로그램|인균이의 타자 프로그램]
+Icon1=타자.!!.EXE
+Title1=인균이의 타자 프로그램
+StartIn1=$(AppPath)
+Key1=Icon1

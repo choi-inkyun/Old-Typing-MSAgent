@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=..\..\바탕 화면\source\시작.vbp
+Project=..\..\바탕 화면\source\인균이의 타자연습.vbp
+Project=..\..\바탕 화면\source\game.vbp
