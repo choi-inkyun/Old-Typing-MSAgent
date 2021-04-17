@@ -1,5 +1,5 @@
 # Old-Typing-MSAgent
-MSAgent을 이용한 타자 &amp; 일정 관리 프로그램
+2001년에 개발한 MSAgent을 이용한 타자 &amp; 일정 관리 프로그램
 
 # Overview
 고등학교 1학년인 2001년에 개발하였고, Visual Basic 6.0을 사용하였습니다.
